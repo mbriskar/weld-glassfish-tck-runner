@@ -21,7 +21,7 @@
     <url>http://www.seamframework.org/Weld</url>
     
     <properties>
-        <version.cdi-tck>1.1.2.Final</version.cdi-tck>
+        <version.cdi-tck>1.1.3-SNAPSHOT</version.cdi-tck>
     </properties>
 
     <dependencies>
